@@ -1,10 +1,11 @@
 
-# hey! <img src="gooselove.png" style="width: 40px;margin-bottom: -10px"/>
+![yok](./gooselove.png)
+# hey!
 
 we're a team from university of minnesota! we compete in hackathons every so often :)
 
 shoot any of us a message! we'd love to chat!
 
-## team
+## all the geese
 
-![team photo](https://yok.dev/api/minihacks-people)
+![team photo](https://yok.dev/api/minihacks-people?num=7)
