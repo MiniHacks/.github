@@ -1,9 +1,10 @@
-## Hi there 👋
 
-**Here are some ideas to get you started:**
+# hey! <img src="gooselove.png" style="width: 40px;margin-bottom: -10px"/>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+we're a team from university of minnesota! we compete in hackathons every so often :)
+
+shoot any of us a message! we'd love to chat!
+
+## team
+
+![team photo](https://yok.dev/api/minihacks-people)
