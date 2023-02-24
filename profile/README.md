@@ -6,6 +6,4 @@ we're a team from university of minnesota! we compete in hackathons every so oft
 
 shoot any of us a message! we'd love to chat!
 
-## all the geese
-
-![team photo](https://yok.dev/api/minihacks-people?num=9)
+![team photo](https://yok.dev/api/minihacks-people?num=10)
