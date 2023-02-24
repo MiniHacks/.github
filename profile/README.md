@@ -1,5 +1,5 @@
 
-![yok](./gooselove.png)
+![yok](./profile/gooselove.png)
 # hey!
 
 we're a team from university of minnesota! we compete in hackathons every so often :)
