@@ -8,4 +8,4 @@ shoot any of us a message! we'd love to chat!
 
 ## all the geese
 
-![team photo](https://yok.dev/api/minihacks-people?num=7)
+![team photo](https://yok.dev/api/minihacks-people?num=9)
